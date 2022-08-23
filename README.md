@@ -18,6 +18,7 @@ Sobre mim:
   <img align="center" alt="Alison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alison-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Alison-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Alison-Tableau" height="30" width="40" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
 
 
 </div>
