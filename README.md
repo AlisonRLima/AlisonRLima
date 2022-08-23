@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alison Lima
 
-### Esse é o meu portfólio em construção sobre análise de dados e construção de modelos de Machine Learning.
+### Esse é o meu portfólio sobre análise de dados e construção de modelos de Machine Learning. Periodicamente adiciono novos trabalhos e reviso alguns antigos
 
 Sobre mim:
 - 🔭 Analista de Dados na área de Analytics & Cognitive na Deloitte desde Junho de 2021. 
@@ -17,9 +17,21 @@ Sobre mim:
 <div style="display: inline_block"><br>
   <img align="center" alt="Alison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alison-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Alison-SQLServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Alison-Tableau" height="30" width="40" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+  <img align="center" alt="Alison-SQL" height="30" width="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
+  <img align="center" alt="Alison-Tableau" height="30" width="40" src="https://img.icons8.com/color/48/000000/tableau-software.png">
+  <img align="center" alt="Alison-PowerBI" height="30" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
 
+ ## 
+ 
+<div> 
+  
+  <a href = "mailto:alisonlima1902@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href=" https://www.linkedin.com/in/alison-lima-459b99135/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
 
 </div>
 
