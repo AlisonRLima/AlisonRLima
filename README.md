@@ -5,7 +5,7 @@
 Sobre mim:
 - 🔭 Analista de Dados na área de Analytics & Cognitive na Deloitte desde Junho de 2021. 
 - 🌱  Bacharel em Ciências Econômicas pela Universidade Estadual de Campinas (Unicamp) e Pós Graduação em Data Science e Analytics (Esalq USP)
-- 👯 Conhecimento em Análise e Ciência de Dados utilizando Python e R. Experiência em vizualização de dados usando Power BI e Tableau
+- 👯 Conhecimento em Análise e Ciência de Dados utilizando Python e R. Experiência em visualização de dados usando Power BI e Tableau
 - ⚡ Em relação à língua estrangeira, possui conhecimento em inglês, espanhol e francês.
 
 <div align="center">
